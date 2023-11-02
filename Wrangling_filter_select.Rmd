@@ -1,7 +1,8 @@
 ---
 title: "Data Wrangling - Part I"
 subtitle: "StatPREP R Workshops"
-author: "Your Name"
+author: "Cleo Ware"
+Date: "Fall 2023"
 output: html_document
 ---
 
